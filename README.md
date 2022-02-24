@@ -1,0 +1,1 @@
+# fish-git-branch-prune
